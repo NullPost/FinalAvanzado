@@ -1,0 +1,43 @@
+#Parametros iniciales
+/run/numberOfThreads 1
+/run/initialize
+/control/verbose 0
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+#Tipo de particula a lanzar
+/gun/particle gamma
+#Valor de energia y numero de particulas lanzadas 
+/gun/energy 1500 keV
+/run/beamOn 128
+/gun/energy 1500 keV
+/run/beamOn 256
+/gun/energy 1500 keV
+/run/beamOn 512
+/gun/energy 1500 keV
+/run/beamOn 1024
+/gun/energy 1500 keV
+/run/beamOn 2048
+/gun/energy 1500 keV
+/run/beamOn 4096
+/gun/energy 1500 keV
+/run/beamOn 8192
+/gun/energy 1500 keV
+/run/beamOn 16384
+/gun/energy 1500 keV
+/run/beamOn 32768
+/gun/energy 1500 keV
+/run/beamOn 65536
+/gun/energy 1500 keV
+/run/beamOn 131072
+/gun/energy 1500 keV
+/run/beamOn 262144
+/gun/energy 1500 keV
+/run/beamOn 524288
+/gun/energy 1500 keV
+/run/beamOn 1048576
+
+
+
+
+

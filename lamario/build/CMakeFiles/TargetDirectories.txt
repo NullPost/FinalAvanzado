@@ -1,0 +1,3 @@
+/home/nullpost/Code/G4/Finalcode/lamario/build/CMakeFiles/edit_cache.dir
+/home/nullpost/Code/G4/Finalcode/lamario/build/CMakeFiles/rebuild_cache.dir
+/home/nullpost/Code/G4/Finalcode/lamario/build/CMakeFiles/exampleLA04.exe.dir

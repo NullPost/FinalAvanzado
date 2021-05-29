@@ -1,0 +1,66 @@
+/run/numberOfThreads 1
+/run/initialize
+/control/verbose 0
+/run/verbose 0
+/event/verbose 0
+/tracking/verbose 0
+/gun/particle gamma
+/gun/energy 100 keV
+/run/beamOn 1000000
+/gun/energy 150 keV
+/run/beamOn 1000000
+/gun/energy 200 keV
+/run/beamOn 1000000
+/gun/energy 250 keV
+/run/beamOn 1000000
+/gun/energy 300 keV
+/run/beamOn 1000000
+/gun/energy 350 keV
+/run/beamOn 1000000
+/gun/energy 400 keV
+/run/beamOn 1000000
+/gun/energy 450 keV
+/run/beamOn 1000000
+/gun/energy 500 keV
+/run/beamOn 1000000
+/gun/energy 550 keV
+/run/beamOn 1000000
+/gun/energy 600 keV
+/run/beamOn 1000000
+/gun/energy 650 keV
+/run/beamOn 1000000
+/gun/energy 700 keV
+/run/beamOn 1000000
+/gun/energy 750 keV
+/run/beamOn 1000000
+/gun/energy 800 keV
+/run/beamOn 1000000
+/gun/energy 850 keV
+/run/beamOn 1000000
+/gun/energy 900 keV
+/run/beamOn 1000000
+/gun/energy 950 keV
+/run/beamOn 1000000
+/gun/energy 1000 keV
+/run/beamOn 1000000
+/gun/energy 1050 keV
+/run/beamOn 1000000
+/gun/energy 1100 keV
+/run/beamOn 1000000
+/gun/energy 1150 keV
+/run/beamOn 1000000
+/gun/energy 1200 keV
+/run/beamOn 1000000
+/gun/energy 1250 keV
+/run/beamOn 1000000
+/gun/energy 1300 keV
+/run/beamOn 1000000
+/gun/energy 1350 keV
+/run/beamOn 1000000
+/gun/energy 1400 keV
+/run/beamOn 1000000
+/gun/energy 1450 keV
+/run/beamOn 1000000
+/gun/energy 1500 keV
+/run/beamOn 1000000
+
